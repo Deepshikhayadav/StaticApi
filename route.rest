@@ -1,0 +1,34 @@
+
+
+GET http://localhost:9000/music
+
+###
+
+
+GET http://localhost:9000/music/1
+
+// get single music
+###
+
+POST http://localhost:9000/music
+Content-Type: application/json
+
+{
+    "name":"deepu iss",
+    "msg":"hello",
+    "sub":true
+}
+
+
+###
+PATCH http://localhost:9000/music/5
+Content-Type: application/json
+
+{
+    "name":"deepu is 2",
+    "msg":"hello everyone",
+}
+
+###
+
+DELETE http://localhost:9000/music/2
