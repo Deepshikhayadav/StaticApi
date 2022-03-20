@@ -9,7 +9,7 @@
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepshikhayadav&hide_border=true&theme=dracula)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
+![Deepu's Trophy](https://github-profile-trophy.vercel.app/?username=deepshikhayadav&theme=dracula&column=4&no-frame=true)
 
 ![Deepu's Graph](https://activity-graph.herokuapp.com/graph?username=deepshikhayadav&area=true&hide_border=true&theme=dracula)
 
@@ -55,7 +55,7 @@
 <div align="center">
 
   <a href="https://github.com/deepshikhayadav">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=deepshikhayadav&color=black&link=https://github.com/G1Joshi" alt="GitHub" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&label=GitHub&labelColor=silver&logo=github&logoColor=black&message=deepshikhayadav&color=black&link=https://github.com/deepshikhayadav" alt="GitHub" />
   </a>
 
  
